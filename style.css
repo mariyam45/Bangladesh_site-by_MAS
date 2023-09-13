@@ -1,0 +1,138 @@
+/* common part  */
+body {
+  background: url(assets/img/bg_main.gif) center;
+}
+.cont {
+  width: 996px;
+  margin: 0 auto;
+}
+/* --------------- */
+
+/* header part  */
+.header_cont {
+  background-color: #9e5bba;
+  color: white;
+  height: 30px;
+  font-size: 13px;
+  line-height: 30px;
+  border-bottom: 1.5px solid red;
+}
+.header_right p {
+  display: inline-block;
+  border-right: 1px solid #dddd;
+  padding-right: 15px;
+  margin-right: 15px;
+}
+.header_right a {
+  text-decoration: none;
+  color: white;
+  padding-right: 15px;
+}
+/* ------------------------- */
+
+/* logo part start  */
+.logo_cont {
+  height: 110px;
+  /* background-color: #c0fffc; */
+}
+.logo_left {
+  line-height: 110px;
+}
+.logo_search {
+  align-items: center;
+}
+.logo_search input {
+  width: 350px;
+  height: 30px;
+  padding: 2px 8px;
+  font-size: 11px;
+  border: 1px solid rgb(174, 174, 174);
+  border-radius: 4px;
+  margin-right: 5px;
+}
+.logo_search button {
+  border: 1px solid rgb(150, 150, 150);
+
+  height: 30px;
+  font-size: 11px;
+  background: linear-gradient(
+    rgba(255, 255, 255, 0.2) 0%,
+    rgba(0, 0, 0, 0.264) 100%
+  );
+  border-radius: 4px;
+}
+/* .logo_search input:focus {
+  border
+} */
+.logo_right {
+  align-items: center;
+}
+.logo1 {
+  border-right: 1px solid #cccccce7;
+  height: 50px;
+  padding-right: 15px;
+  margin-right: 15px;
+}
+.logo2 h6 {
+  font-size: 14px;
+  color: #9e5bba;
+}
+.nav-link {
+  font-size: 15px !important;
+  margin: 0 0;
+  padding: 0px 10px !important;
+  height: 35px;
+  line-height: 35px;
+}
+.menu_bar {
+  height: 35px;
+  /* width: 998px !important; */
+}
+.menu_bar .nav-link:hover {
+  background-color: #8cc643;
+  color: white;
+}
+.banner {
+  border: 2px solid red;
+  padding: 10px;
+}
+/* .slider {
+  height: 220px !important;
+} */
+
+.tab .nav-link {
+  background: #9e5bba;
+  color: white;
+  margin-right: 1px;
+  border-radius: 3px 3px 0 0 !important;
+  font-weight: bold;
+}
+.tab .nav-link:hover {
+  background: #e8e8e8;
+  color: #9e5bba;
+}
+.tab .nav-link:focus {
+  background: #e8e8e8;
+  color: #9e5bba;
+}
+.tab {
+  margin-left: 10px !important;
+}
+.tab_img img {
+  margin: 0 auto;
+}
+.tab_btm a {
+  text-decoration: none;
+  color: #297101;
+  font-size: 12px;
+  font-weight: 500;
+  /* text-align: center; */
+}
+.tab_ul li {
+  text-decoration: none;
+  list-style: none;
+}
+.tab_ul a {
+  color: black;
+  font-size: 12px;
+}
