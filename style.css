@@ -198,8 +198,72 @@ body {
   text-align: center;
   margin-top: 10px;
   margin-bottom: 0;
+  font-weight: bolder;
 }
 /* .vidu-main2 .row {
   margin: 0 8px 0 0;
   padding: 0 5px 0 0;
 } */
+/* .hero_side {
+  margin: px !important;
+} */
+
+.select h5 {
+  color: #7e2da1;
+  font-size: 19px;
+}
+.select select {
+  width: 260px;
+  height: 32px;
+  padding: 5px;
+  font-size: 12px;
+  background: #ececec;
+  border: 1px solid rgb(180, 180, 180);
+  border-radius: 2px;
+}
+.select button {
+  font-size: 12px;
+  height: 32px;
+  background: linear-gradient(
+    rgba(244, 244, 244, 0.975) 0%,
+    rgba(193, 193, 193, 0.59) 100%
+  );
+  border-radius: 2px;
+  border: 1px solid rgb(180, 180, 180);
+}
+
+.side-vidu1 h6 {
+  background: #609513;
+  color: white;
+  font-size: 14px;
+  word-spacing: 2px;
+  padding: 8px 6px;
+  margin-bottom: 0;
+}
+.side-vidu2 h6 {
+  background: #609513;
+  color: white;
+  font-size: 14px;
+  word-spacing: 2px;
+  padding: 8px 6px;
+  margin-bottom: 0;
+}
+.side-vidu3 h6 {
+  background: #609513;
+  color: white;
+  font-size: 14px;
+  word-spacing: 2px;
+  padding: 8px 6px;
+  margin-bottom: 0;
+}
+.side-banner h6 {
+  background: #609513;
+  color: white;
+  font-size: 16px;
+  word-spacing: 2px;
+  padding: 8px 6px;
+  margin-bottom: 0;
+}
+.bottom-portal a img {
+  margin-bottom: 5px;
+}
